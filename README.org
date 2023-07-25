@@ -1,0 +1,10 @@
+* cl-sxml
+
+XML in S-expressions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eadmund/cl-sxml.git   |
+| commit  | e5542b1  |
+| systems | cl-sxml |
+|---------+-------------------------------------------|
+
